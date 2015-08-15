@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:10.374878", "description": "Inflicts regular damage.  Has a 100% chance to lower the target's Speed by one stage.", "id": 341, "modified": "2013-12-24T15:24:31.683869", "name": "Mud-shot", "power": 55, "pp": 15, "resource_uri": "/api/v1/move/341/"}

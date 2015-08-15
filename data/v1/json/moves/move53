@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.625020", "description": "Inflicts regular damage.  Has a 10% chance to burn the target.", "id": 53, "modified": "2013-12-24T15:24:29.958924", "name": "Flamethrower", "power": 95, "pp": 15, "resource_uri": "/api/v1/move/53/"}

@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.503161", "description": "Inflicts regular damage.  Has a 10% chance to freeze the target.", "id": 8, "modified": "2013-12-24T15:24:29.687639", "name": "Ice-punch", "power": 75, "pp": 15, "resource_uri": "/api/v1/move/8/"}

@@ -1,0 +1,1 @@
+{"accuracy": 50, "category": "", "created": "2013-11-03T15:06:10.056362", "description": "Inflicts regular damage.  Has a 100% chance to confuse the target.", "id": 223, "modified": "2013-12-24T15:24:30.959241", "name": "Dynamicpunch", "power": 100, "pp": 5, "resource_uri": "/api/v1/move/223/"}

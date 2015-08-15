@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.746633", "description": "Inflicts regular damage.  Every time the user is hit after it uses this move but before its next action, its Attack raises by one stage.", "id": 99, "modified": "2013-12-24T15:24:30.236013", "name": "Rage", "power": 20, "pp": 20, "resource_uri": "/api/v1/move/99/"}

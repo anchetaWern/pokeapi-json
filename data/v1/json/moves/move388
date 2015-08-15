@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.498825", "description": "Changes the target's ability to insomnia.\n\nIf the target's ability is truant or multitype, this move will fail.", "id": 388, "modified": "2013-12-24T15:24:31.948436", "name": "Worry-seed", "power": 0, "pp": 10, "resource_uri": "/api/v1/move/388/"}

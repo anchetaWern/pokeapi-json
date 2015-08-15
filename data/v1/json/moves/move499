@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.754407", "description": "Inflicts regular damage.  All of the target's stat modifiers are reset to zero.", "id": 499, "modified": "2013-12-24T15:24:32.581500", "name": "Clear-smog", "power": 50, "pp": 15, "resource_uri": "/api/v1/move/499/"}

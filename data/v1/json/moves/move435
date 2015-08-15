@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.600235", "description": "Inflicts regular damage.  Has a 30% chance to paralyze the target.", "id": 435, "modified": "2013-12-24T15:24:32.212862", "name": "Discharge", "power": 80, "pp": 15, "resource_uri": "/api/v1/move/435/"}

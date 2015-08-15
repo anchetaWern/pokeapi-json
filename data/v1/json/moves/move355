@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.408119", "description": "Heals the user for half its max HP.  If the user is flying, its flying type is ignored until the end of this turn.", "id": 355, "modified": "2013-12-24T15:24:31.761545", "name": "Roost", "power": 0, "pp": 10, "resource_uri": "/api/v1/move/355/"}

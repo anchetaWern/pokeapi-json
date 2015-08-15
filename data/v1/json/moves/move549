@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:10.881382", "description": "Inflicts regular damage.  Lowers the target's Speed by one stage.", "id": 549, "modified": "2013-12-24T15:24:32.859706", "name": "Glaciate", "power": 65, "pp": 10, "resource_uri": "/api/v1/move/549/"}

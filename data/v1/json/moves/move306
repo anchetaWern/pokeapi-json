@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:10.291585", "description": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.", "id": 306, "modified": "2013-12-24T15:24:31.490751", "name": "Crush-claw", "power": 75, "pp": 10, "resource_uri": "/api/v1/move/306/"}

@@ -1,0 +1,1 @@
+{"accuracy": 85, "category": "", "created": "2013-11-03T15:06:10.670302", "description": "Inflicts regular damage.  Has a 40% chance to lower the target's Special Defense by two stages.", "id": 465, "modified": "2013-12-24T15:24:32.388956", "name": "Seed-flare", "power": 120, "pp": 5, "resource_uri": "/api/v1/move/465/"}

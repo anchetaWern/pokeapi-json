@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:10.574971", "description": "Inflicts regular damage.  Has a 10% chance to freeze the target and a separate 10% chance to make the target flinch.", "id": 423, "modified": "2013-12-24T15:24:32.146205", "name": "Ice-fang", "power": 65, "pp": 15, "resource_uri": "/api/v1/move/423/"}

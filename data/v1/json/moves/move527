@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:10.819509", "description": "Lowers the target's Speed by one stage.", "id": 527, "modified": "2013-12-24T15:24:32.735825", "name": "Electroweb", "power": 55, "pp": 15, "resource_uri": "/api/v1/move/527/"}

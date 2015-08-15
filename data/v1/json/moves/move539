@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:10.853174", "description": "Inflicts regular damage.  Has a 40% chance to lower the target's accuracy by one stage.", "id": 539, "modified": "2013-12-24T15:24:32.801693", "name": "Night-daze", "power": 85, "pp": 10, "resource_uri": "/api/v1/move/539/"}

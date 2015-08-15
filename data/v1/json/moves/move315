@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.313498", "description": "Inflicts regular damage, then lowers the user's Special Attack by two stages.", "id": 315, "modified": "2013-12-24T15:24:31.540606", "name": "Overheat", "power": 140, "pp": 5, "resource_uri": "/api/v1/move/315/"}

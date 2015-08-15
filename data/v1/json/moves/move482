@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.711210", "description": "Inflicts regular damage.  Has a 10% chance to poison the target.", "id": 482, "modified": "2013-12-24T15:24:32.484213", "name": "Sludge-wave", "power": 95, "pp": 10, "resource_uri": "/api/v1/move/482/"}

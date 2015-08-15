@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.782642", "description": "Forces the target to act last this turn, regardless of Speed or move priority.  If the target has already acted this turn, this move will fail.", "id": 511, "modified": "2013-12-24T15:24:32.649570", "name": "Quash", "power": 0, "pp": 15, "resource_uri": "/api/v1/move/511/"}

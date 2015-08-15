@@ -1,0 +1,1 @@
+{"accuracy": 75, "category": "", "created": "2013-11-03T15:06:10.079609", "description": "Inflicts regular damage.  Has a 30% chance to lower the target's Defense by one stage.", "id": 231, "modified": "2013-12-24T15:24:31.006170", "name": "Iron-tail", "power": 100, "pp": 15, "resource_uri": "/api/v1/move/231/"}

@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:11.068850", "description": "Inflicts regular damage.  Has a 10% chance to burn the target.", "id": 615, "modified": "2013-12-24T15:24:33.119704", "name": "Shadow-fire", "power": 75, "pp": 0, "resource_uri": "/api/v1/move/615/"}

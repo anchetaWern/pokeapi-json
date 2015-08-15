@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.270048", "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a 10% chance to burn the target.", "id": 299, "modified": "2013-12-24T15:24:31.449256", "name": "Blaze-kick", "power": 85, "pp": 10, "resource_uri": "/api/v1/move/299/"}

@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.539514", "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.", "id": 405, "modified": "2013-12-24T15:24:32.046426", "name": "Bug-buzz", "power": 90, "pp": 10, "resource_uri": "/api/v1/move/405/"}

@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.041357", "description": "Inflicts regular damage.  Power increases inversely with happiness, given by `(255 - happiness) * 2 / 5`, to a maximum of 102.  Power bottoms out at 1.", "id": 218, "modified": "2013-12-24T15:24:30.930481", "name": "Frustration", "power": 1, "pp": 20, "resource_uri": "/api/v1/move/218/"}

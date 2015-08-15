@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:10.311498", "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.", "id": 314, "modified": "2013-12-24T15:24:31.534501", "name": "Air-cutter", "power": 55, "pp": 25, "resource_uri": "/api/v1/move/314/"}

@@ -1,0 +1,1 @@
+{"accuracy": 50, "category": "", "created": "2013-11-03T15:06:10.794105", "description": "Inflicts regular damage.  Has a 100% chance to burn the target.", "id": 517, "modified": "2013-12-24T15:24:32.681147", "name": "Inferno", "power": 100, "pp": 5, "resource_uri": "/api/v1/move/517/"}

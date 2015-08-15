@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.706678", "description": "Inflicts regular damage.  Always scores a critical hit.", "id": 480, "modified": "2013-12-24T15:24:32.474217", "name": "Storm-throw", "power": 40, "pp": 10, "resource_uri": "/api/v1/move/480/"}

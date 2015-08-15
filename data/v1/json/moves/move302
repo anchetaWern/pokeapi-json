@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.278880", "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.", "id": 302, "modified": "2013-12-24T15:24:31.468486", "name": "Needle-arm", "power": 60, "pp": 15, "resource_uri": "/api/v1/move/302/"}

@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.734173", "description": "Lowers the target's Speed by one stage.", "id": 490, "modified": "2013-12-24T15:24:32.529795", "name": "Low-sweep", "power": 60, "pp": 20, "resource_uri": "/api/v1/move/490/"}

@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.805580", "description": "Inflicts regular damage.  Has a 100% chance to lower the target's Special Attack by one stage.", "id": 522, "modified": "2013-12-24T15:24:32.708699", "name": "Struggle-bug", "power": 30, "pp": 20, "resource_uri": "/api/v1/move/522/"}

@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.633754", "description": "Inflicts regular damage.\n\nIf the target is in the first turn of dive, this move will hit with double power.", "id": 57, "modified": "2013-12-24T15:24:29.987907", "name": "Surf", "power": 95, "pp": 15, "resource_uri": "/api/v1/move/57/"}

@@ -1,0 +1,1 @@
+{"accuracy": 70, "category": "", "created": "2013-11-03T15:06:10.551747", "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.", "id": 411, "modified": "2013-12-24T15:24:32.079202", "name": "Focus-blast", "power": 120, "pp": 5, "resource_uri": "/api/v1/move/411/"}

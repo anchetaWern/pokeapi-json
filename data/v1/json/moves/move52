@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.622946", "description": "Inflicts regular damage.  Has a 10% chance to burn the target.", "id": 52, "modified": "2013-12-24T15:24:29.949769", "name": "Ember", "power": 40, "pp": 25, "resource_uri": "/api/v1/move/52/"}

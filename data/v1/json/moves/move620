@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:11.083917", "description": "Halves HP of all Pokémon on the field.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.", "id": 620, "modified": "2013-12-24T15:24:33.154382", "name": "Shadow-half", "power": 1, "pp": 0, "resource_uri": "/api/v1/move/620/"}

@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.689825", "description": "Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class.", "id": 473, "modified": "2013-12-24T15:24:32.434329", "name": "Psyshock", "power": 80, "pp": 10, "resource_uri": "/api/v1/move/473/"}

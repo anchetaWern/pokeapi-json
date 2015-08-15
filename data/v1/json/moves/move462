@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.662079", "description": "Inflicts regular damage.  Power directly relates to the target's relative remaining HP, given by `1 + 120 * current HP / max HP`, to a maximum of 121.", "id": 462, "modified": "2013-12-24T15:24:32.372402", "name": "Crush-grip", "power": 1, "pp": 5, "resource_uri": "/api/v1/move/462/"}

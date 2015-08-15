@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.010063", "description": "Raises the target's Attack by two stages, then confuses it.  If the target's Attack cannot be raised by two stages, the confusion is not applied.", "id": 207, "modified": "2013-12-24T15:24:30.864802", "name": "Swagger", "power": 0, "pp": 15, "resource_uri": "/api/v1/move/207/"}

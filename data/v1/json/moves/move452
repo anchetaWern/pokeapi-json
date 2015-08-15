@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.637961", "description": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.", "id": 452, "modified": "2013-12-24T15:24:32.314779", "name": "Wood-hammer", "power": 120, "pp": 15, "resource_uri": "/api/v1/move/452/"}

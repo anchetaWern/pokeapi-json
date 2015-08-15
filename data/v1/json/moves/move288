@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.241150", "description": "If the user faint before it next acts, the move that fainted it will have its PP dropped to 0.  End-of-turn damage does not trigger this effect.", "id": 288, "modified": "2013-12-24T15:24:31.354733", "name": "Grudge", "power": 0, "pp": 5, "resource_uri": "/api/v1/move/288/"}

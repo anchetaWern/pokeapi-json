@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.924206", "description": "Inflicts regular damage.  Has a 10% chance to burn the target.  Frozen Pokémon may use this move, in which case they will thaw.", "id": 172, "modified": "2013-12-24T15:24:30.656939", "name": "Flame-wheel", "power": 60, "pp": 25, "resource_uri": "/api/v1/move/172/"}

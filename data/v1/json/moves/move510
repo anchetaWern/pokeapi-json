@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.779989", "description": "Inflicts regular damage.  If the target is holding a berry, it's destroyed and cannot be used in response to this move.", "id": 510, "modified": "2013-12-24T15:24:32.644124", "name": "Incinerate", "power": 30, "pp": 15, "resource_uri": "/api/v1/move/510/"}

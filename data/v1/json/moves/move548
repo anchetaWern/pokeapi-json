@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.878656", "description": "Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class.", "id": 548, "modified": "2013-12-24T15:24:32.853869", "name": "Secret-sword", "power": 85, "pp": 10, "resource_uri": "/api/v1/move/548/"}

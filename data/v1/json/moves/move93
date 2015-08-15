@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.733952", "description": "Inflicts regular damage.  Has a 10% chance to confuse the target.", "id": 93, "modified": "2013-12-24T15:24:30.201150", "name": "Confusion", "power": 50, "pp": 25, "resource_uri": "/api/v1/move/93/"}

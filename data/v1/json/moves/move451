@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.635740", "description": "Inflicts regular damage.  Has a 70% chance to raise the user's Special Attack by one stage.", "id": 451, "modified": "2013-12-24T15:24:32.307194", "name": "Charge-beam", "power": 50, "pp": 10, "resource_uri": "/api/v1/move/451/"}

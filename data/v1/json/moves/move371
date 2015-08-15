@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.440672", "description": "Inflicts regular damage.  If the target uses a move or switches out this turn before this move is used, this move has double power.", "id": 371, "modified": "2013-12-24T15:24:31.852487", "name": "Payback", "power": 50, "pp": 10, "resource_uri": "/api/v1/move/371/"}

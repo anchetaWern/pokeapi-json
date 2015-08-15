@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.555702", "description": "Inflicts regular damage.  User takes 1/3 the damage it inflicts in recoil.", "id": 413, "modified": "2013-12-24T15:24:32.090648", "name": "Brave-bird", "power": 120, "pp": 15, "resource_uri": "/api/v1/move/413/"}

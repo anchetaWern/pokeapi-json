@@ -1,0 +1,1 @@
+{"accuracy": 85, "category": "", "created": "2013-11-03T15:06:10.889875", "description": "Inflicts regular damage.  Has a 20% chance to burn the target.", "id": 551, "modified": "2013-12-24T15:24:32.869623", "name": "Blue-flare", "power": 130, "pp": 5, "resource_uri": "/api/v1/move/551/"}

@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.708866", "description": "Inflicts regular damage.  If this move successfully hits the target, any Pokémon adjacent to the target are damaged for 1/16 their max HP.", "id": 481, "modified": "2013-12-24T15:24:32.479883", "name": "Flame-burst", "power": 70, "pp": 15, "resource_uri": "/api/v1/move/481/"}

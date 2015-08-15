@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.769713", "description": "Inflicts regular damage.  If the target has a major status ailment-ailment, this move has double power.", "id": 506, "modified": "2013-12-24T15:24:32.622327", "name": "Hex", "power": 50, "pp": 10, "resource_uri": "/api/v1/move/506/"}

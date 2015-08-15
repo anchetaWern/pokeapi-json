@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.703325", "description": "Inflicts regular damage.  Has a 10% chance to paralyze the target.", "id": 84, "modified": "2013-12-24T15:24:30.151055", "name": "Thundershock", "power": 40, "pp": 30, "resource_uri": "/api/v1/move/84/"}

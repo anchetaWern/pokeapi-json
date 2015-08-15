@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.585278", "description": "Inflicts regular damage.  Has a 20% chance to make the target flinch.", "id": 428, "modified": "2013-12-24T15:24:32.173305", "name": "Zen-headbutt", "power": 80, "pp": 15, "resource_uri": "/api/v1/move/428/"}

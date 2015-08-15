@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.870627", "description": "Inflicts regular damage.  Has a 30% chance to burn the target.", "id": 545, "modified": "2013-12-24T15:24:32.835485", "name": "Searing-shot", "power": 100, "pp": 5, "resource_uri": "/api/v1/move/545/"}

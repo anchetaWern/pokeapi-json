@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.836026", "description": "Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion.", "id": 533, "modified": "2013-12-24T15:24:32.769558", "name": "Sacred-sword", "power": 90, "pp": 20, "resource_uri": "/api/v1/move/533/"}

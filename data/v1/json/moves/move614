@@ -1,0 +1,1 @@
+{"accuracy": 60, "category": "", "created": "2013-11-03T15:06:11.064604", "description": "Inflicts regular damage.  User takes 1/2 of its current HP in recoil.", "id": 614, "modified": "2013-12-24T15:24:33.103813", "name": "Shadow-end", "power": 120, "pp": 0, "resource_uri": "/api/v1/move/614/"}

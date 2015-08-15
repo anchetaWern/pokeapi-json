@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:10.907077", "description": "Inflicts regular damage.  Lowers the user's Defense, Special Defense, and Speed by one stage each.", "id": 557, "modified": "2013-12-24T15:24:32.904467", "name": "V-create", "power": 180, "pp": 5, "resource_uri": "/api/v1/move/557/"}

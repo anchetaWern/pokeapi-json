@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.763234", "description": "Inflicts regular damage.  Has a 30% chance to burn the target.", "id": 503, "modified": "2013-12-24T15:24:32.604481", "name": "Scald", "power": 80, "pp": 15, "resource_uri": "/api/v1/move/503/"}

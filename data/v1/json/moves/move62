@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.644434", "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Attack by one stage.", "id": 62, "modified": "2013-12-24T15:24:30.017382", "name": "Aurora-beam", "power": 65, "pp": 20, "resource_uri": "/api/v1/move/62/"}

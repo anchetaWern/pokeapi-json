@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.007961", "description": "Inflicts regular damage.  Will not reduce the target's HP below 1.", "id": 206, "modified": "2013-12-24T15:24:30.858213", "name": "False-swipe", "power": 40, "pp": 40, "resource_uri": "/api/v1/move/206/"}

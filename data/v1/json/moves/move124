@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.819156", "description": "Inflicts regular damage.  Has a 30% chance to poison the target.", "id": 124, "modified": "2013-12-24T15:24:30.387235", "name": "Sludge", "power": 65, "pp": 20, "resource_uri": "/api/v1/move/124/"}

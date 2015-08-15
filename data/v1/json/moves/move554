@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.898856", "description": "Inflicts regular damage.  Has a 30% chance to burn the target.  User charges for one turn before attacking.", "id": 554, "modified": "2013-12-24T15:24:32.887893", "name": "Ice-burn", "power": 140, "pp": 5, "resource_uri": "/api/v1/move/554/"}

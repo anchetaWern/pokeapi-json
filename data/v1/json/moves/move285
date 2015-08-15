@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.234024", "description": "User and target switch abilities.  Ignores accuracy and evasion modifiers.\n\nIf either Pokémon has multitype or wonder-guard, this move will fail.", "id": 285, "modified": "2013-12-24T15:24:31.336382", "name": "Skill-swap", "power": 0, "pp": 10, "resource_uri": "/api/v1/move/285/"}

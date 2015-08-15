@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.810628", "description": "User faint, even if the attack fail or miss.  Inflicts regular damage.", "id": 120, "modified": "2013-12-24T15:24:30.365200", "name": "Selfdestruct", "power": 200, "pp": 5, "resource_uri": "/api/v1/move/120/"}

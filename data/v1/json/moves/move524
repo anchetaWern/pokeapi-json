@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.811505", "description": "Inflicts regular damage.  Always scores a critical hit.", "id": 524, "modified": "2013-12-24T15:24:32.720692", "name": "Frost-breath", "power": 40, "pp": 10, "resource_uri": "/api/v1/move/524/"}

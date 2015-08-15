@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.064026", "description": "Inflicts regular damage.  Has a 30% chance to paralyze the target.", "id": 225, "modified": "2013-12-24T15:24:30.970578", "name": "Dragonbreath", "power": 60, "pp": 20, "resource_uri": "/api/v1/move/225/"}

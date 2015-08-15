@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.788253", "description": "Inflicts regular damage.  If a friendly Pokémon fainted on the previous turn, this move has double power.", "id": 514, "modified": "2013-12-24T15:24:32.666049", "name": "Retaliate", "power": 70, "pp": 5, "resource_uri": "/api/v1/move/514/"}

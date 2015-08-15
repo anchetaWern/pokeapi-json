@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:09.882070", "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.", "id": 152, "modified": "2013-12-24T15:24:30.543666", "name": "Crabhammer", "power": 90, "pp": 10, "resource_uri": "/api/v1/move/152/"}

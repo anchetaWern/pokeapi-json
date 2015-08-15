@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.505490", "description": "Inflicts regular damage.  Has a 10% chance to paralyze the target.", "id": 9, "modified": "2013-12-24T15:24:29.693349", "name": "Thunderpunch", "power": 75, "pp": 15, "resource_uri": "/api/v1/move/9/"}

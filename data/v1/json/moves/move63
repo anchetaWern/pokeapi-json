@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:09.646586", "description": "Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn.", "id": 63, "modified": "2013-12-24T15:24:30.023641", "name": "Hyper-beam", "power": 150, "pp": 5, "resource_uri": "/api/v1/move/63/"}

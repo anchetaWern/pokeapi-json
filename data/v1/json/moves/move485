@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.722528", "description": "Inflicts regular damage.  Only Pokémon that share a type with the user will take damage from this move.", "id": 485, "modified": "2013-12-24T15:24:32.503316", "name": "Synchronoise", "power": 70, "pp": 15, "resource_uri": "/api/v1/move/485/"}

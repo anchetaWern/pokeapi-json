@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.851842", "description": "Fails if not used on a sleep Pokémon.  Inflicts regular damage.  Drains half the damage inflicted to heal the user.", "id": 138, "modified": "2013-12-24T15:24:30.464564", "name": "Dream-eater", "power": 100, "pp": 15, "resource_uri": "/api/v1/move/138/"}

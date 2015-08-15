@@ -1,0 +1,1 @@
+{"accuracy": 80, "category": "", "created": "2013-11-03T15:06:10.095277", "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.", "id": 238, "modified": "2013-12-24T15:24:31.046496", "name": "Cross-chop", "power": 100, "pp": 5, "resource_uri": "/api/v1/move/238/"}

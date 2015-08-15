@@ -1,0 +1,1 @@
+{"accuracy": 80, "category": "", "created": "2013-11-03T15:06:10.618871", "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.", "id": 444, "modified": "2013-12-24T15:24:32.262934", "name": "Stone-edge", "power": 100, "pp": 5, "resource_uri": "/api/v1/move/444/"}

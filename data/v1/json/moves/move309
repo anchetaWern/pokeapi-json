@@ -1,0 +1,1 @@
+{"accuracy": 85, "category": "", "created": "2013-11-03T15:06:10.300485", "description": "Inflicts regular damage. Has a 20% chance to raise the user's Attack one stage.", "id": 309, "modified": "2013-12-24T15:24:31.507749", "name": "Meteor-mash", "power": 100, "pp": 10, "resource_uri": "/api/v1/move/309/"}

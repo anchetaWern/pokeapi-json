@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.401842", "description": "Inflicts regular damage.  Has a 20% chance to confuse the target.", "id": 352, "modified": "2013-12-24T15:24:31.743989", "name": "Water-pulse", "power": 60, "pp": 20, "resource_uri": "/api/v1/move/352/"}

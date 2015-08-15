@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.736585", "description": "Inflicts regular damage.  Lowers the target's Special Defense by two stages.", "id": 491, "modified": "2013-12-24T15:24:32.536458", "name": "Acid-spray", "power": 40, "pp": 20, "resource_uri": "/api/v1/move/491/"}

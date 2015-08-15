@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:10.535016", "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.", "id": 403, "modified": "2013-12-24T15:24:32.034968", "name": "Air-slash", "power": 75, "pp": 20, "resource_uri": "/api/v1/move/403/"}

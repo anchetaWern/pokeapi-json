@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.497135", "description": "Inflicts regular damage.  After the battle ends, the winner receives five times the user's level in extra money for each time this move was used.", "id": 6, "modified": "2013-12-24T15:24:29.676149", "name": "Pay-day", "power": 40, "pp": 20, "resource_uri": "/api/v1/move/6/"}

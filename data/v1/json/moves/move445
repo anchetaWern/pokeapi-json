@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.620822", "description": "Lowers the target's Special Attack by two stages.  If the user and target are the same gender, or either is genderless, this move will fail.", "id": 445, "modified": "2013-12-24T15:24:32.270217", "name": "Captivate", "power": 0, "pp": 20, "resource_uri": "/api/v1/move/445/"}

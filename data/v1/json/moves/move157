@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:09.892179", "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.", "id": 157, "modified": "2013-12-24T15:24:30.571451", "name": "Rock-slide", "power": 75, "pp": 10, "resource_uri": "/api/v1/move/157/"}

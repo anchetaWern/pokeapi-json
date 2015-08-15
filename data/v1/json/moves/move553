@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.895930", "description": "Inflicts regular damage.  Has a 30% chance to paralyze the target.  User charges for one turn before attacking.", "id": 553, "modified": "2013-12-24T15:24:32.882324", "name": "Freeze-shock", "power": 140, "pp": 5, "resource_uri": "/api/v1/move/553/"}

@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.510703", "description": "Restores 1/16 of the user's max HP at the end of each turn.  If the user leaves the field, this effect ends.\n\nThis effect is passed on by baton-pass.", "id": 392, "modified": "2013-12-24T15:24:31.970399", "name": "Aqua-ring", "power": 0, "pp": 20, "resource_uri": "/api/v1/move/392/"}

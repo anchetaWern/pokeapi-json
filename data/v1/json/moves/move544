@@ -1,0 +1,1 @@
+{"accuracy": 85, "category": "", "created": "2013-11-03T15:06:10.867835", "description": "Inflicts regular damage.  Hits twice in one turn.", "id": 544, "modified": "2013-12-24T15:24:32.829970", "name": "Gear-grind", "power": 50, "pp": 15, "resource_uri": "/api/v1/move/544/"}

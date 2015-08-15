@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.792207", "description": "Transfers the user's held item to the target.  If the user has no held item, or the target already has a held item, this move will fail.", "id": 516, "modified": "2013-12-24T15:24:32.677015", "name": "Bestow", "power": 0, "pp": 15, "resource_uri": "/api/v1/move/516/"}

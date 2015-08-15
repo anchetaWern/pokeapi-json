@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:09.692851", "description": "Lowers the target's Speed by one stage.", "id": 81, "modified": "2013-12-24T15:24:30.134353", "name": "String-shot", "power": 0, "pp": 40, "resource_uri": "/api/v1/move/81/"}

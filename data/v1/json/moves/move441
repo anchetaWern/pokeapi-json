@@ -1,0 +1,1 @@
+{"accuracy": 70, "category": "", "created": "2013-11-03T15:06:10.612664", "description": "Inflicts regular damage.  Has a 30% chance to poison the target.", "id": 441, "modified": "2013-12-24T15:24:32.246220", "name": "Gunk-shot", "power": 120, "pp": 5, "resource_uri": "/api/v1/move/441/"}

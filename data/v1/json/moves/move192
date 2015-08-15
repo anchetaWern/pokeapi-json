@@ -1,0 +1,1 @@
+{"accuracy": 50, "category": "", "created": "2013-11-03T15:06:09.976707", "description": "Inflicts regular damage.  Has a 100% chance to paralyze the target.", "id": 192, "modified": "2013-12-24T15:24:30.772323", "name": "Zap-cannon", "power": 120, "pp": 5, "resource_uri": "/api/v1/move/192/"}

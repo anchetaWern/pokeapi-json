@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.659802", "description": "Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored.", "id": 69, "modified": "2013-12-24T15:24:30.058876", "name": "Seismic-toss", "power": 1, "pp": 20, "resource_uri": "/api/v1/move/69/"}

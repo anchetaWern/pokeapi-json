@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:09.936861", "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.", "id": 177, "modified": "2013-12-24T15:24:30.684979", "name": "Aeroblast", "power": 100, "pp": 5, "resource_uri": "/api/v1/move/177/"}

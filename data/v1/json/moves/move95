@@ -1,0 +1,1 @@
+{"accuracy": 60, "category": "", "created": "2013-11-03T15:06:09.738332", "description": "Puts the target to sleep.", "id": 95, "modified": "2013-12-24T15:24:30.213396", "name": "Hypnosis", "power": 0, "pp": 20, "resource_uri": "/api/v1/move/95/"}

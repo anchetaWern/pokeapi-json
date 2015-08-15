@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.892998", "description": "Inflicts regular damage.  Has a 50% chance to raise the user's Special Attack by one stage.", "id": 552, "modified": "2013-12-24T15:24:32.876486", "name": "Fiery-dance", "power": 80, "pp": 10, "resource_uri": "/api/v1/move/552/"}

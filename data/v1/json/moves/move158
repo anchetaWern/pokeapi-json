@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:09.894176", "description": "Inflicts regular damage.  Has a 10% chance to make the target flinch.", "id": 158, "modified": "2013-12-24T15:24:30.576914", "name": "Hyper-fang", "power": 80, "pp": 15, "resource_uri": "/api/v1/move/158/"}

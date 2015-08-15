@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:09.519610", "description": "Inflicts regular damage.", "id": 15, "modified": "2013-12-24T15:24:29.728206", "name": "Cut", "power": 50, "pp": 30, "resource_uri": "/api/v1/move/15/"}

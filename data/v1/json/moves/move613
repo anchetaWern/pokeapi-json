@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:11.061574", "description": "Inflicts regular damage.  Has a 10% chance to freeze the target.", "id": 613, "modified": "2013-12-24T15:24:33.085031", "name": "Shadow-chill", "power": 75, "pp": 0, "resource_uri": "/api/v1/move/613/"}

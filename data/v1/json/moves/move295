@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.258964", "description": "Inflicts regular damage.  Has a 50% chance to lower the target's Special Defense by one stage.", "id": 295, "modified": "2013-12-24T15:24:31.421177", "name": "Luster-purge", "power": 70, "pp": 5, "resource_uri": "/api/v1/move/295/"}

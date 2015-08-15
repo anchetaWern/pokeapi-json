@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.642394", "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.", "id": 61, "modified": "2013-12-24T15:24:30.011626", "name": "Bubblebeam", "power": 65, "pp": 20, "resource_uri": "/api/v1/move/61/"}

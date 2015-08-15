@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.784937", "description": "Inflicts regular damage.  If the user has no held item, this move has double power.", "id": 512, "modified": "2013-12-24T15:24:32.655133", "name": "Acrobatics", "power": 55, "pp": 15, "resource_uri": "/api/v1/move/512/"}

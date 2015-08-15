@@ -1,0 +1,1 @@
+{"accuracy": 80, "category": "", "created": "2013-11-03T15:06:10.649973", "description": "Inflicts regular damage.  User takes 1/2 the damage it inflicts in recoil.", "id": 457, "modified": "2013-12-24T15:24:32.343093", "name": "Head-smash", "power": 150, "pp": 5, "resource_uri": "/api/v1/move/457/"}

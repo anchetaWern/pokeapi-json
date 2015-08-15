@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.752121", "description": "Inflicts regular damage.  Damage calculation ignores the target's stat modifiers, including evasion.", "id": 498, "modified": "2013-12-24T15:24:32.575910", "name": "Chip-away", "power": 70, "pp": 20, "resource_uri": "/api/v1/move/498/"}

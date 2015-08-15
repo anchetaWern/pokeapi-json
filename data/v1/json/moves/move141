@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.858324", "description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.", "id": 141, "modified": "2013-12-24T15:24:30.480914", "name": "Leech-life", "power": 20, "pp": 15, "resource_uri": "/api/v1/move/141/"}

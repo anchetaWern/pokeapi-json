@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.553749", "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.", "id": 412, "modified": "2013-12-24T15:24:32.084633", "name": "Energy-ball", "power": 80, "pp": 10, "resource_uri": "/api/v1/move/412/"}

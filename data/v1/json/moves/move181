@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.945048", "description": "Inflicts regular damage.  Has a 10% chance to freeze the target.", "id": 181, "modified": "2013-12-24T15:24:30.708266", "name": "Powder-snow", "power": 40, "pp": 25, "resource_uri": "/api/v1/move/181/"}

@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:09.888033", "description": "Inflicts regular damage.  Hits twice in one turn.", "id": 155, "modified": "2013-12-24T15:24:30.560456", "name": "Bonemerang", "power": 50, "pp": 10, "resource_uri": "/api/v1/move/155/"}

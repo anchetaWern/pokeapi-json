@@ -1,0 +1,1 @@
+{"accuracy": 85, "category": "", "created": "2013-11-03T15:06:09.582672", "description": "Inflicts regular damage.  User takes 1/4 the damage it inflicts in recoil.", "id": 36, "modified": "2013-12-24T15:24:29.844652", "name": "Take-down", "power": 90, "pp": 20, "resource_uri": "/api/v1/move/36/"}

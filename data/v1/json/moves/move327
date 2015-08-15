@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.339933", "description": "Inflicts regular damage.\n\nThis move can hit Pokémon under the effect of bounce, fly, or sky-drop.", "id": 327, "modified": "2013-12-24T15:24:31.608079", "name": "Sky-uppercut", "power": 85, "pp": 15, "resource_uri": "/api/v1/move/327/"}

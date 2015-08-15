@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.745770", "description": "The target will act next this turn, regardless of Speed or move priority.\nIf the target has already acted this turn, this move will fail.", "id": 495, "modified": "2013-12-24T15:24:32.558250", "name": "After-you", "power": 0, "pp": 15, "resource_uri": "/api/v1/move/495/"}

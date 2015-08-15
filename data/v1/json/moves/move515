@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.790207", "description": "Inflicts damage equal to the user's remaining HP.  User faints.", "id": 515, "modified": "2013-12-24T15:24:32.671503", "name": "Final-gambit", "power": 1, "pp": 5, "resource_uri": "/api/v1/move/515/"}

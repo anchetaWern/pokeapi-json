@@ -1,0 +1,1 @@
+{"accuracy": 95, "category": "", "created": "2013-11-03T15:06:10.573024", "description": "Inflicts regular damage.  Has a 10% chance to paralyze the target and a separate 10% chance to make the target flinch.", "id": 422, "modified": "2013-12-24T15:24:32.140462", "name": "Thunder-fang", "power": 65, "pp": 15, "resource_uri": "/api/v1/move/422/"}

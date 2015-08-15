@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.729227", "description": "Inflicts regular damage.  Raises the user's Speed by one stage.", "id": 488, "modified": "2013-12-24T15:24:32.519929", "name": "Flame-charge", "power": 50, "pp": 20, "resource_uri": "/api/v1/move/488/"}

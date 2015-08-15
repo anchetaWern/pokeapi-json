@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.387592", "description": "fire moves inflict half damage, regardless of target.  If the user leaves the field, this effect ends.", "id": 346, "modified": "2013-12-24T15:24:31.711946", "name": "Water-sport", "power": 0, "pp": 15, "resource_uri": "/api/v1/move/346/"}

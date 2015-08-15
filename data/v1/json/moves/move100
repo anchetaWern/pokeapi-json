@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:09.748774", "description": "Does nothing.  Wild battles end immediately.", "id": 100, "modified": "2013-12-24T15:24:30.242335", "name": "Teleport", "power": 0, "pp": 20, "resource_uri": "/api/v1/move/100/"}

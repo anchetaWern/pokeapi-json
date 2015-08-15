@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.352782", "description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.", "id": 332, "modified": "2013-12-24T15:24:31.634878", "name": "Aerial-ace", "power": 60, "pp": 20, "resource_uri": "/api/v1/move/332/"}

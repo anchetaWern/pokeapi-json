@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:09.783738", "description": "Raises user's Defense by one stage.\n\nAfter this move is used, the power of ice-ball and rollout are doubled until the user leaves the field.", "id": 111, "modified": "2013-12-24T15:24:30.315772", "name": "Defense-curl", "power": 0, "pp": 40, "resource_uri": "/api/v1/move/111/"}

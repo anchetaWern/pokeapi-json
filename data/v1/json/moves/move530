@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.827669", "description": "Inflicts regular damage.  Hits twice in one turn.", "id": 530, "modified": "2013-12-24T15:24:32.752147", "name": "Dual-chop", "power": 40, "pp": 15, "resource_uri": "/api/v1/move/530/"}

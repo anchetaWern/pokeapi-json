@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.836400", "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Speed by one stage.", "id": 132, "modified": "2013-12-24T15:24:30.431626", "name": "Constrict", "power": 10, "pp": 35, "resource_uri": "/api/v1/move/132/"}

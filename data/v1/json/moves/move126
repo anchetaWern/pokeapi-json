@@ -1,0 +1,1 @@
+{"accuracy": 85, "category": "", "created": "2013-11-03T15:06:09.823376", "description": "Inflicts regular damage.  Has a 10% chance to burn the target.", "id": 126, "modified": "2013-12-24T15:24:30.398142", "name": "Fire-blast", "power": 120, "pp": 5, "resource_uri": "/api/v1/move/126/"}

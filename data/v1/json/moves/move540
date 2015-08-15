@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.856088", "description": "Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class.", "id": 540, "modified": "2013-12-24T15:24:32.808323", "name": "Psystrike", "power": 100, "pp": 10, "resource_uri": "/api/v1/move/540/"}

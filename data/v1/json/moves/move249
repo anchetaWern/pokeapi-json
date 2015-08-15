@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.126697", "description": "Inflicts regular damage.  Has a 50% chance to lower the target's Defense by one stage.", "id": 249, "modified": "2013-12-24T15:24:31.110929", "name": "Rock-smash", "power": 40, "pp": 15, "resource_uri": "/api/v1/move/249/"}

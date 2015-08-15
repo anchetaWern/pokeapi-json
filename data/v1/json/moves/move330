@@ -1,0 +1,1 @@
+{"accuracy": 85, "category": "", "created": "2013-11-03T15:06:10.348405", "description": "Inflicts regular damage.  Has a 30% chance to lower the target's accuracy by one stage.", "id": 330, "modified": "2013-12-24T15:24:31.624114", "name": "Muddy-water", "power": 95, "pp": 10, "resource_uri": "/api/v1/move/330/"}

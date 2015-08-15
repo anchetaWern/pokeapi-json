@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.643039", "description": "Inflicts regular damage.  User's critical hit rate is one level higher when using this move.", "id": 454, "modified": "2013-12-24T15:24:32.325253", "name": "Attack-order", "power": 90, "pp": 15, "resource_uri": "/api/v1/move/454/"}

@@ -1,0 +1,1 @@
+{"accuracy": 90, "category": "", "created": "2013-11-03T15:06:10.904310", "description": "Inflicts regular damage.  Has a 30% chance to make the target flinch.", "id": 556, "modified": "2013-12-24T15:24:32.897607", "name": "Icicle-crash", "power": 85, "pp": 10, "resource_uri": "/api/v1/move/556/"}

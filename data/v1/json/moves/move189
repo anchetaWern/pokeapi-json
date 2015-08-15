@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.966740", "description": "Inflicts regular damage.  Has a 100% chance to lower the target's accuracy by one stage.", "id": 189, "modified": "2013-12-24T15:24:30.755443", "name": "Mud-slap", "power": 20, "pp": 10, "resource_uri": "/api/v1/move/189/"}

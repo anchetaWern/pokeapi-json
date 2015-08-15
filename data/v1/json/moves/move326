@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.337879", "description": "Inflicts regular damage.  Has a 10% chance to make the target flinch.", "id": 326, "modified": "2013-12-24T15:24:31.601705", "name": "Extrasensory", "power": 80, "pp": 30, "resource_uri": "/api/v1/move/326/"}

@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.109366", "description": "Discards the user's stat changes and copies the target's.\n\nThis move cannot be copied by mirror-move.", "id": 244, "modified": "2013-12-24T15:24:31.081243", "name": "Psych-up", "power": 0, "pp": 10, "resource_uri": "/api/v1/move/244/"}

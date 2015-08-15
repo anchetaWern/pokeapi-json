@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.137298", "description": "Inflicts regular damage.  Causes the target to flinch.  Can only be used on the user's first turn after entering the field.", "id": 252, "modified": "2013-12-24T15:24:31.135050", "name": "Fake-out", "power": 40, "pp": 10, "resource_uri": "/api/v1/move/252/"}

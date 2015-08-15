@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.526176", "description": "Inflicts regular damage.\n\nIf the target is under the effect of bounce, fly, or sky-drop, this move will hit with double power.", "id": 16, "modified": "2013-12-24T15:24:29.734492", "name": "Gust", "power": 40, "pp": 35, "resource_uri": "/api/v1/move/16/"}

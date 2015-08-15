@@ -1,0 +1,1 @@
+{"accuracy": 80, "category": "", "created": "2013-11-03T15:06:09.875446", "description": "Inflicts typeless damage between 50% and 150% of the user's level, selected at random in increments of 10%.", "id": 149, "modified": "2013-12-24T15:24:30.526801", "name": "Psywave", "power": 1, "pp": 15, "resource_uri": "/api/v1/move/149/"}

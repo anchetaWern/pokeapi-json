@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.616843", "description": "Inflicts regular damage.  Ignores accuracy and evasion modifiers.", "id": 443, "modified": "2013-12-24T15:24:32.257356", "name": "Magnet-bomb", "power": 60, "pp": 20, "resource_uri": "/api/v1/move/443/"}

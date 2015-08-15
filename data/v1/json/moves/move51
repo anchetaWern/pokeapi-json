@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.620709", "description": "Inflicts regular damage.  Has a 10% chance to lower the target's Special Defense by one stage.", "id": 51, "modified": "2013-12-24T15:24:29.940763", "name": "Acid", "power": 40, "pp": 30, "resource_uri": "/api/v1/move/51/"}

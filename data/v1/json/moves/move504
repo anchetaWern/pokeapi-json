@@ -1,0 +1,1 @@
+{"accuracy": 0, "category": "", "created": "2013-11-03T15:06:10.765371", "description": "Raises the user's Attack, Special Attack, and Speed by two stages each.  Lowers the user's Defense and Special Defense by one stage each.", "id": 504, "modified": "2013-12-24T15:24:32.611354", "name": "Shell-smash", "power": 0, "pp": 15, "resource_uri": "/api/v1/move/504/"}

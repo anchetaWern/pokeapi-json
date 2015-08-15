@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:09.663856", "description": "Inflicts regular damage.  Drains half the damage inflicted to heal the user.", "id": 71, "modified": "2013-12-24T15:24:30.069625", "name": "Absorb", "power": 20, "pp": 25, "resource_uri": "/api/v1/move/71/"}

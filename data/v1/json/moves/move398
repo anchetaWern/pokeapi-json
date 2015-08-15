@@ -1,0 +1,1 @@
+{"accuracy": 100, "category": "", "created": "2013-11-03T15:06:10.524102", "description": "Inflicts regular damage.  Has a 30% chance to poison the target.", "id": 398, "modified": "2013-12-24T15:24:32.003638", "name": "Poison-jab", "power": 80, "pp": 20, "resource_uri": "/api/v1/move/398/"}
