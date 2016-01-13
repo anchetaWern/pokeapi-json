@@ -1,0 +1,7 @@
+{
+	"require": {
+		"doctrine/couchdb-odm":  "@dev"
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
